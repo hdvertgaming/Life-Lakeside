@@ -29,8 +29,8 @@ _role5 = "~ Admins ~";
 _role5names = ["Are always watching you :)"];
 _role6 = "Reminder";
 _role6names = ["This is a BETA, there are bugs."];
-_role7 = "Reminder 2";
-_role7names = ["Have fun, de-stress and follow the rules"];
+_role7 = "Thanks to the developers";
+_role7names = ["Heisen Trico, Prawn Kalashnikov"];
  
 {
 sleep 2;
